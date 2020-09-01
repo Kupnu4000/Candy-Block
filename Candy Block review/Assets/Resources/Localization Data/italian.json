@@ -1,0 +1,37 @@
+{
+    "Language": "italian",
+    "Entries": [
+        {
+            "Key": "title_screen_play",
+            "Value": "Giocare"
+        },
+        {
+            "Key": "shop_uncles_shop",
+            "Value": "Negozio dello zio"
+        },
+        {
+            "Key": "shop_candy_kit",
+            "Value": "Kit di caramelle"
+        },
+        {
+            "Key": "settings",
+            "Value": "impostazioni"
+        },
+        {
+            "Key": "settings_music",
+            "Value": "Musica"
+        },
+        {
+            "Key": "settings_sound",
+            "Value": "Suono"
+        },
+        {
+            "Key": "settings_language",
+            "Value": "linguaggio"
+        },
+        {
+            "Key": "settings_restore_purchase",
+            "Value": "Ripristinare acquisto"
+        }
+    ]
+}

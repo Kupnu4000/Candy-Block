@@ -1,0 +1,37 @@
+{
+    "Language": "german",
+    "Entries": [
+        {
+            "Key": "title_screen_play",
+            "Value": "abspielen"
+        },
+        {
+            "Key": "shop_uncles_shop",
+            "Value": "Onkels Laden"
+        },
+        {
+            "Key": "shop_candy_kit",
+            "Value": "Candy Kit"
+        },
+        {
+            "Key": "settings",
+            "Value": "die Einstellungen"
+        },
+        {
+            "Key": "settings_music",
+            "Value": "Musik"
+        },
+        {
+            "Key": "settings_sound",
+            "Value": "Klingen"
+        },
+        {
+            "Key": "settings_language",
+            "Value": "Sprache"
+        },
+        {
+            "Key": "settings_restore_purchase",
+            "Value": "Kauf wiederherstellen"
+        }
+    ]
+}

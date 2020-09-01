@@ -1,0 +1,37 @@
+{
+    "Language": "russian",
+    "Entries": [
+        {
+            "Key": "title_screen_play",
+            "Value": "\u0418\u0433\u0440\u0430\u0442\u044c"
+        },
+        {
+            "Key": "shop_uncles_shop",
+            "Value": "\u041c\u0430\u0433\u0430\u0437\u0438\u043d \u0434\u044f\u0434\u0438"
+        },
+        {
+            "Key": "shop_candy_kit",
+            "Value": "Candy Kit"
+        },
+        {
+            "Key": "settings",
+            "Value": "\u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438"
+        },
+        {
+            "Key": "settings_music",
+            "Value": "\u041c\u0443\u0437\u044b\u043a\u0430"
+        },
+        {
+            "Key": "settings_sound",
+            "Value": "\u0437\u0432\u0443\u043a"
+        },
+        {
+            "Key": "settings_language",
+            "Value": "\u044f\u0437\u044b\u043a"
+        },
+        {
+            "Key": "settings_restore_purchase",
+            "Value": "\u0412\u043e\u0441\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u043f\u043e\u043a\u0443\u043f\u043a\u0443"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: a6c975f90ecb9484ab2e0d18f8fda43c
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: c6b8ec6615530e642be10082476750b9
+  - enabled: 1
+    path: Assets/Scenes/Map.unity
+    guid: 6a0e7b90f1e75ed4382bffee8920ebff
+  - enabled: 1
+    path: Assets/FacebookSDK/Examples/AppEvents.unity
+    guid: 68ab940fa15e34433bff18301686b080
+  m_configObjects: {}

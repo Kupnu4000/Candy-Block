@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 18491100ccf4a4a4bab9969825b6ae73, type: 3}
+  m_Name: Level_0035
+  m_EditorClassIdentifier: 
+  ScaleFactor: 0.6
+  MapBounds:
+    m_Position: {x: -3, y: -3, z: 0}
+    m_Size: {x: 6, y: 5, z: 1}
+  GhostData:
+  - name: Ghost_ai2
+    position: {x: 1, y: 1.5, z: 0}
+  - name: Ghost_ac4
+    position: {x: -1.5, y: 1, z: 0}
+  - name: Ghost_aa4
+    position: {x: 2, y: 0.5, z: 0}
+  - name: Ghost_am1
+    position: {x: -0.5, y: -0.5, z: 0}
+  - name: Ghost_ad2
+    position: {x: 2, y: -2, z: 0}
+  - name: Ghost_ab3
+    position: {x: 0, y: -1.5, z: 0}
+  - name: Ghost_ag2
+    position: {x: -2, y: -1.5, z: 0}
+  ShapeData:
+  - name: Shape_ag2
+    position: {x: 1.7500014, y: -1.2829999, z: 0}
+  - name: Shape_ab3
+    position: {x: -1.7499986, y: 0.1170001, z: 0}
+  - name: Shape_ad2
+    position: {x: -3.1499987, y: 0.1170001, z: 0}
+  - name: Shape_am1
+    position: {x: -3.1499987, y: -2.6829998, z: 0}
+  - name: Shape_aa4
+    position: {x: -0.34999847, y: -1.9829998, z: 0}
+  - name: Shape_ac4
+    position: {x: 0.3500015, y: 0.1170001, z: 0}
+  - name: Shape_ai2
+    position: {x: 1.7500014, y: -4.0829997, z: 0}
+  TilemapData:
+  - {fileID: 0}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 0}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}
+  - {fileID: 11400000, guid: bbe95a2d73392c745af9df0d9c46a2f0, type: 2}

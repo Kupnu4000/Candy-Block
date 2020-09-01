@@ -1,0 +1,37 @@
+{
+    "Language": "korean",
+    "Entries": [
+        {
+            "Key": "title_screen_play",
+            "Value": "\ub180\uc774"
+        },
+        {
+            "Key": "shop_uncles_shop",
+            "Value": "\uc0bc\ucd0c\uc758 \uac00\uac8c"
+        },
+        {
+            "Key": "shop_candy_kit",
+            "Value": "\uce94\ub514 \ud0a4\ud2b8"
+        },
+        {
+            "Key": "settings",
+            "Value": "\uc124\uc815"
+        },
+        {
+            "Key": "settings_music",
+            "Value": "\uc74c\uc545"
+        },
+        {
+            "Key": "settings_sound",
+            "Value": "\uc18c\ub9ac"
+        },
+        {
+            "Key": "settings_language",
+            "Value": "\uc5b8\uc5b4"
+        },
+        {
+            "Key": "settings_restore_purchase",
+            "Value": "\uad6c\ub9e4 \ubcf5\uc6d0"
+        }
+    ]
+}

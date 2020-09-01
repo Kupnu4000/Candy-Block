@@ -1,0 +1,37 @@
+{
+    "Language": "english",
+    "Entries": [
+        {
+            "Key": "title_screen_play",
+            "Value": "Play"
+        },
+        {
+            "Key": "shop_uncles_shop",
+            "Value": "Uncle's Shop"
+        },
+        {
+            "Key": "shop_candy_kit",
+            "Value": "Candy Kit"
+        },
+        {
+            "Key": "settings",
+            "Value": "Settings"
+        },
+        {
+            "Key": "settings_music",
+            "Value": "Music"
+        },
+        {
+            "Key": "settings_sound",
+            "Value": "Sound"
+        },
+        {
+            "Key": "settings_language",
+            "Value": "Language"
+        },
+        {
+            "Key": "settings_restore_purchase",
+            "Value": "Restore Purchase"
+        }
+    ]
+}

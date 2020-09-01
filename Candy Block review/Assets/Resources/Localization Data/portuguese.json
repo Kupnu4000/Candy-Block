@@ -1,0 +1,37 @@
+{
+    "Language": "portuguese",
+    "Entries": [
+        {
+            "Key": "title_screen_play",
+            "Value": "Toque"
+        },
+        {
+            "Key": "shop_uncles_shop",
+            "Value": "Loja do tio"
+        },
+        {
+            "Key": "shop_candy_kit",
+            "Value": "Kit De Doces"
+        },
+        {
+            "Key": "settings",
+            "Value": "Defini\u00e7\u00f5es"
+        },
+        {
+            "Key": "settings_music",
+            "Value": "M\u00fasica"
+        },
+        {
+            "Key": "settings_sound",
+            "Value": "Som"
+        },
+        {
+            "Key": "settings_language",
+            "Value": "L\u00edngua"
+        },
+        {
+            "Key": "settings_restore_purchase",
+            "Value": "Restaurar compra"
+        }
+    ]
+}

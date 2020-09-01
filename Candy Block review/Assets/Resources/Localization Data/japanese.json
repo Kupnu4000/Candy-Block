@@ -1,0 +1,37 @@
+{
+    "Language": "japanese",
+    "Entries": [
+        {
+            "Key": "title_screen_play",
+            "Value": "\u904a\u3073\u307e\u3059"
+        },
+        {
+            "Key": "shop_uncles_shop",
+            "Value": "\u304a\u3058\u3055\u3093\u306e\u5e97"
+        },
+        {
+            "Key": "shop_candy_kit",
+            "Value": "\u30ad\u30e3\u30f3\u30c7\u30a3\u30ad\u30c3\u30c8"
+        },
+        {
+            "Key": "settings",
+            "Value": "\u8a2d\u5b9a"
+        },
+        {
+            "Key": "settings_music",
+            "Value": "\u97f3\u697d"
+        },
+        {
+            "Key": "settings_sound",
+            "Value": "\u97f3"
+        },
+        {
+            "Key": "settings_language",
+            "Value": "\u8a00\u8a9e"
+        },
+        {
+            "Key": "settings_restore_purchase",
+            "Value": "\u8cfc\u5165\u5546\u54c1\u3092\u5fa9\u5143\u3059\u308b"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "Language": "french",
+    "Entries": [
+        {
+            "Key": "title_screen_play",
+            "Value": "Jouer"
+        },
+        {
+            "Key": "shop_uncles_shop",
+            "Value": "Oncle's Shop"
+        },
+        {
+            "Key": "shop_candy_kit",
+            "Value": "Kit de bonbons"
+        },
+        {
+            "Key": "settings",
+            "Value": "R\u00e9glages"
+        },
+        {
+            "Key": "settings_music",
+            "Value": "La musique"
+        },
+        {
+            "Key": "settings_sound",
+            "Value": "Du son"
+        },
+        {
+            "Key": "settings_language",
+            "Value": "La langue"
+        },
+        {
+            "Key": "settings_restore_purchase",
+            "Value": "Restaurer l'achat"
+        }
+    ]
+}

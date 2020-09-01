@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6b01d71-82f9-4842-9e36-941e6187d01c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Map/MapPanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FacebookSDK/FacebookTracker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Map/MapBackgroundParallax.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/PentominoShape.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/MapHightlight.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FacebookSDK/FacebookSDK.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/PentominoCell.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/HintManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/Roster.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/Data/Level.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/GoldMode/GoldModeButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/PentominoGhost.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/LevelMap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/General/LanguageButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/EGhost.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/LevelEditorWindow.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/EMapGen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GPGSIds.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/EPentominoShape.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Misc/SaveData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Misc/Extensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Misc/Preferences.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/InGame/HintButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Misc/TestMethods.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/InGame/WinStars.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Misc/LevelMapGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Misc/GoldMode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Misc/Localization.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Audio/UiButtonSound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Misc/GrantPurchases.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/InGame/SettingsMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Misc/RateUsScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/InGame/ResetButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/InGame/LevelCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/General/SceneTransitionScreen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/InGame/HintsMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/InGame/Star.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Map/LevelButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/InGame/ShelfStars.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/General/LocalizedText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Deprecated/WinScreen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/InGame/HintCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/MainMenu/PlayButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/General/SafeArea.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Map/LevelSelection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FacebookSDK/Examples/Scripts/SubMenus/AppRequests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FacebookSDK/Examples/Scripts/SubMenus/MainMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Misc/AdTimer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FacebookSDK/Examples/Scripts/SubMenus/AccessTokenMenu.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IAPManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FacebookSDK/Examples/Scripts/SubMenus/DialogShare.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Map/Test/EndlessScroll2.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Map/Test/EndlessScroll.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/InGame/BackgroundSwap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FacebookSDK/Examples/Scripts/MenuBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Misc/PurchasesControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/FacebookSDK/Examples/Scripts/ConsoleBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Map/MapButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Audio/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/MainMenu/GoldModeMenu.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Misc/GoldMode.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Misc/GrantPurchases.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Misc/Localization.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/FadingScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Misc/Preferences.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Audio/AudioManager_DEPRECATED.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Audio/AudioHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Audio/MusicManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/PentominoShape.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Audio/UiElementSound.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/SceneTransitionScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/PentominoGhost.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/GoldMode/GoldModeButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/General/ButtonClickSound.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Map/MapButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Deprecated/WinScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Star.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Audio/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Audio/UiButtonSound.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/HintManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/LevelMap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Misc/LevelMapGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Misc/TestMethods.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/General/SceneTransitionScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/InGame/WinStars.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/InGame/Star.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/InGame/ShelfStars.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/InGame/SettingsMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/InGame/ResetButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/InGame/LevelCounter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/InGame/HintsMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/InGame/HintButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/InGame/BackgroundSwap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MainMenu/GoldModeMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/MainMenu/PlayButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IAPManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/General/SafeArea.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/General/LocalizedText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/General/LanguageButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Map/MapPanel.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Map/MapBackground.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Map/MapBackgroundParallax.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Map/LevelSelection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Map/LevelButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Misc/SaveData.cs" />
+        <option value="$PROJECT_DIR$/Assets/FacebookSDK/FacebookTracker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/Data/Level.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/LevelEditorWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Map/Test/EndlessScroll.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Map/Test/EndlessScroll2.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Misc/AdTimer.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gttyViCOhqLdGsgStcq21VkSdN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="do_not_show_Android_plugin_suggestion" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="528" y="308" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1598959015999">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="528" y="308" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.30.1536.834@0.30.1536.834" timestamp="1598959015999" />
+    <state x="425" y="204" width="672" height="677" key="run.anything.popup" timestamp="1598946801445">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="425" y="204" width="672" height="677" key="run.anything.popup/0.30.1536.834@0.30.1536.834" timestamp="1598946801445" />
+    <state x="431" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1598959316347">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="431" y="186" width="672" height="678" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1598959316347" />
+  </component>
+</project>

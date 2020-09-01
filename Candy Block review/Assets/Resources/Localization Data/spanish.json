@@ -1,0 +1,37 @@
+{
+    "Language": "spanish",
+    "Entries": [
+        {
+            "Key": "title_screen_play",
+            "Value": "Jugar"
+        },
+        {
+            "Key": "shop_uncles_shop",
+            "Value": "La tienda del tio"
+        },
+        {
+            "Key": "shop_candy_kit",
+            "Value": "Kit de caramelo"
+        },
+        {
+            "Key": "settings",
+            "Value": "Ajustes"
+        },
+        {
+            "Key": "settings_music",
+            "Value": "M\u00fasica"
+        },
+        {
+            "Key": "settings_sound",
+            "Value": "Sonar"
+        },
+        {
+            "Key": "settings_language",
+            "Value": "Idioma"
+        },
+        {
+            "Key": "settings_restore_purchase",
+            "Value": "Restaurar Compra"
+        }
+    ]
+}
